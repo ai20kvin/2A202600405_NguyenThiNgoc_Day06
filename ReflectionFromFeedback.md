@@ -1,5 +1,5 @@
 **Reflection & ****Bài**** ****học**** ****từ**** Feedback**** ****các**** team ****khác**
-Sau buổi review, mình đã tổng hợp và phân tích giải pháp của các nhóm để tối ưu hóa cho hệ thống AI Vinmec của mình:
+Sau buổi review, tổng hợp và phân tích giải pháp của các nhóm để tối ưu hóa cho hệ thống AI Vinmec của mình:
 **1. ****Nhóm**** 26: ****Vinmec**** Assistant (****Chuyên**** ****sâu**** ****về**** ****Hậu**** ****cần**** & ****Kỹ**** ****thuật****)**
 **Điểm**** ****học**** ****tập****:** Nhóm này tập trung rất tốt vào **Persona** (người chuẩn bị đi khám) và giá trị thực tế là giúp bệnh nhân chuẩn bị đầy đủ giấy tờ, giảm thời gian tái khám.
 **Về**** ****mặt**** ****kỹ**** ****thuật****:** Sử dụng **LangGraph** và **Kafka** để điều phối thông tin là một kiến trúc hiện đại. Đặc biệt là tư duy: *Ưu** **tiên** Database **trước**, **không** **có** **mới** **gọi** Tool* để tối ưu chi phí và tốc độ.
